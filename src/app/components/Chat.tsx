@@ -24,9 +24,9 @@ export default function Chat() {
   return (
     <Card className="w-[440px]">
       <CardHeader>
-        <CardTitle>Chat AI</CardTitle>
+        <CardTitle>Ozz AI</CardTitle>
         <CardDescription>
-          Chatbot using Vercel SDK and Gemini model.
+          Nasıl yardımcı olabilirim?
         </CardDescription>
       </CardHeader>
       <CardContent>
